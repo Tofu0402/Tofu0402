@@ -1,7 +1,7 @@
 ### Profile
-#会津大学　学部3年  
-#技術:Unity/C#/C++/Blender  
-#有料アセットを使用したゲーム制作が多いのでprivateなものが多いです。
+会津大学　学部3年  
+技術:Unity/C#/C++/Blender  
+有料アセットを使用したゲーム制作が多いのでprivateなものが多いです。
 
 <!--
 **Tofu0402/Tofu0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

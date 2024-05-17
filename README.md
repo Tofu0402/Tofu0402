@@ -1,6 +1,6 @@
 ### Profile
-#会津大学　学部3年/n
-#技術:Unity/C#/C++/Blender/n
+#会津大学　学部3年  
+#技術:Unity/C#/C++/Blender  
 #有料アセットを使用したゲーム制作が多いのでprivateなものが多いです。
 
 <!--
